@@ -32,3 +32,8 @@
 - 3pts: Code cleary commented
 - 2pt: Readme included with answers to questions
 - 2pt: Product/ConcreteProduct/Creator/ConcreteCreator correclty identified.
+
+## Stretch
+1. Gain 5pts bonus for **each** Design Pattern you succesfully implement in a new problem domain. 
+2. Your Code has to be clearly commented. Make it clear that you are comfortable with the design pattern of choice. 
+2. Need ideas? Let me know, we can brainstorm Problem Domains for other design patterns. 
