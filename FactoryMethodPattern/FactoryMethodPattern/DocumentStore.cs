@@ -4,7 +4,14 @@ using System.Text;
 
 namespace FactoryMethodPattern
 {
-    class DocumentStore
+     public abstract class DocumentStore
     {
+        public Document OrderDocument(string type)
+        {
+            Document document = null;
+            document = DocumentCreator.CreateDocument(type);
+            document.Print();
+            return document;
+        }
     }
 }
